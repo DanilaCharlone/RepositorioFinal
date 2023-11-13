@@ -6,7 +6,7 @@
     border: 3px solid #184689;
     text-align: center;
     justify-content: center;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 #center {
@@ -15,20 +15,24 @@
     background-color: rgba(135, 216, 222, 0.483);
 }
 
-#img{
-border: 2px solid black;
-width: 30em;
+#img {
+    border: 2px solid black;
+    width: 30em;
 }
 
-#txt{
-color: red;
+#txt {
+    color: red;
 }
 
-#txtMundo{
+#txtMundo {
     background-color: #66B866;
     border: 2px solid #184689;
     padding: 10px;
     margin: auto;
     width: 300px;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
+}
+
+#imgIcon {
+    width: 30px;
 }
