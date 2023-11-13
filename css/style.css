@@ -1,8 +1,15 @@
 #textoPrincipal {
+    color: white;
     background-color: #66B866;
-    padding: 2em;
+    padding: 1em;
     border-radius: 100px;
     border: 3px solid #184689;
+    text-align: center;
+    justify-content: center;
 }
 
-
+#center {
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(135, 216, 222, 0.483);
+}
